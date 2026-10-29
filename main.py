@@ -6,9 +6,9 @@ from aiogram.fsm.context import FSMContext
 from aiogram.fsm.state import State, StatesGroup
 from aiogram.utils.keyboard import InlineKeyboardBuilder
 
-TOKEN = "8909302138:AAHDpsza5kCWO1v-YUY1r1AMr5LZEf2m8wE"
+TOKEN = ""
 # Вставьте сюда ID вашей группы (начинается с минуса, например: -1001234567890)
-ADMIN_ID = -5340948614
+ADMIN_ID = 
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
