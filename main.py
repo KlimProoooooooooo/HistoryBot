@@ -8,7 +8,7 @@ from aiogram.utils.keyboard import InlineKeyboardBuilder
 
 TOKEN = "8909302138:AAHDpsza5kCWO1v-YUY1r1AMr5LZEf2m8wE"
 # Вставьте сюда ID вашей группы (начинается с минуса, например: -1001234567890)
-ADMIN_ID = -5340948614 
+ADMIN_ID = -1004413170934 
 
 bot = Bot(token=TOKEN)
 dp = Dispatcher()
